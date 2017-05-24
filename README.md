@@ -1,2 +1,2 @@
 # bashingItUp
-Exploring power of bash in daily use
+Exploring power of bash in daily life
