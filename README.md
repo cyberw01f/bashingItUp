@@ -1,7 +1,7 @@
 # bashingItUp
 <p> Exploring power of bash in daily life </p>
-<ul>
-<li> getBingWallpaper.sh: gets and sets the image from bing search as wallpaper </li>
-<li> git.sh: used to automate regular code backup to git </li>
-<li> startCompton.sh: Starts compton compositor on Xfce/Lxde </li>
-</ul>
+
+* getBingWallpaper.sh: gets and sets the image from bing search as wallpaper
+* git.sh: can be used to automate regular code backups to git
+* startCompton.sh: Starts compton compositor on Xfce/Lxde
+* gQ.sh: one line git add all git commit and git push 
